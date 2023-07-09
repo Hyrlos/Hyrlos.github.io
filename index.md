@@ -14,15 +14,12 @@ layout: default
   *2021 – 2023 | Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM), Montpellier University, CNRS*  
   Ph.D. thesis on “Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems”.  
   In collaboration with ITK – Predict and Decide
-
 - **Computer Science Master**  
   *2018 – 2020 | Montpellier university*  
   Architectures and engineering for software and Web.  
   Erasmus: 3th semester at the university of Helsinki in Finland.  
-
 - **Computer Science Bachelor**  
   *2017 – 2018 | Montpellier university*
-
 - **Higher National Diploma in Computer Science**  
   *2015 – 2017 | Toulouse university*
 
@@ -31,15 +28,12 @@ layout: default
 - **Internship: Developer**  
 *February 2020 – 9 months | ITK, Montpellier, FRANCE*  
 Conception and development of a connector between Jira and Gitlab. The goal is to synchronise the issue tracking and help to simplify the support processes.
-
 - **Internship: Developer**  
 *June 2019 – 3 months | CIRAD, FRANCE - SPKS, INDONESIA*  
 Conception and development of a tool to visualize the survey’s results about “the strategies of small producer to improve their life conditions In Indonesia”.  
-
 - **Internship: Developer**  
 *June 2018 – 3 months | LIRMM, Montpellier, FRANCE*  
 Development of a knowledge graph visualization based on the French lexical and semantic network “JeuxDeMots”.  
-
 - **Internship: Analyst – Developer**  
 *April 2017 – 3 months | TDN Pro, Québec, CANADA*  
 Web development of a copyright management application.  
@@ -72,19 +66,28 @@ Web development of a copyright management application.
   *Computational Notebooks for FCA (CoNo-Concepts 2023)*
   Thomas Georges, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine
 
-## Communications
+## Talks
 
 - **Doctoral Symposium**  
   ICSR’20:  19th International Conference on Software and Systems Reuse - December 2020 – Tunis, Tunisia
-- **Variability extraction from specification into the source to prepare a migration to a Software Product Line**  
+- **Variability Identification from Specification to Source Code for a Software Product Line Migration**  
   CAL’22: 13th French conference on Software Architecture - June 2022 – Vannes, France
 - **Variability Extraction from Simulator I/O Data Schemata in Agriculture Decision-Support Software**  
   National Days of the Programming and Software Engineering research group - June 2022 – Vannes, France
+- **Bridging the Gap between User-Stories and Feature Models by Leveraging Version Control Platforms**  
+  National Days of the Programming and Software Engineering research group - June 2023 – Rennes, France
 - **Introduction to Software Products Lines**
   - 30 years of the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM) - *September 2022*
   - Interns
   - European Researchers Night - *October 2023*
+- **My Thesis in 180 seconds - Regional final**  
+  Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *Marsh 2023*
+
+## For Fun
+
+- [Notebook Tutorial Clustering and topic modelling](https://gite.lirmm.fr/tgeorges/clusteringtutorial)
+- [Notebook Disease Symptoms and Patient Profile for FCA processing](https://github.com/Hyrlos/Disease-Symptoms-and-Patient-Profile-Processing)
 
 ## Achievments
 
-## For Fun
+- 2nd Price « Rodez agglomération 2018 » – Start-up Challenge 2018
