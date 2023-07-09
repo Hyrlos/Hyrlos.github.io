@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Thomas Georges, PhD Student
+# PhD Student
 
   I'm a Phd Student in software architecture on the subject "Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems" at the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier ([LIRMM](https://www.lirmm.fr/)), Montpellier University. My PhD start in 2021 and end at the end of 2023.
 
