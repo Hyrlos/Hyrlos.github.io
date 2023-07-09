@@ -1,123 +1,84 @@
 ---
 layout: default
 ---
+# Me
+  I'm a Phd Student in software architecture on the subject "Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems" at the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier ([LIRMM](https://www.lirmm.fr/)), Montpellier University. My PhD start in 2021 and end at the end of 2023.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+  The thesis is a collaboration with the french company [ITK](itk.fr/en) who provide decision software systems for farmers and agricultural advisors.
 
-[Link to another page](./another-page.html).
+## Education
+  - **Ph.D. in Software Architecture**  
+    *2021 – 2023 | Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM), Montpellier University, CNRS*  
+    Ph.D. thesis on “Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems”.   
+    In collaboration with ITK – Predict and Decide
 
-There should be whitespace between paragraphs.
+  - **Computer Science Master**  
+    *2018 – 2020 | Montpellier university*  
+    Architectures and engineering for software and Web.  
+    Erasmus: 3th semester at the university of Helsinki in Finland.  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+  - **Computer Science Bachelor**  
+    *2017 – 2018 | Montpellier university*
 
-# Header 1
+  - **Higher National Diploma in Computer Science**  
+    *2015 – 2017 | Toulouse university*
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Work experience       
+- **Internship: Developer**  
+*February 2020 – 9 months | ITK, Montpellier, FRANCE*  
+Conception and development of a connector between Jira and Gitlab. The goal is to synchronise the issue tracking and help to simplify the support processes.
 
-## Header 2
+- **Internship: Developer**  
+*June 2019 – 3 months | CIRAD, FRANCE - SPKS, INDONESIA*  
+Conception and development of a tool to visualize the survey’s results about “the strategies of small producer to improve their life conditions In Indonesia”.  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **Internship: Developer**  
+*June 2018 – 3 months | LIRMM, Montpellier, FRANCE*  
+Development of a knowledge graph visualization based on the French lexical and semantic network “JeuxDeMots”.  
 
-### Header 3
+- **Internship: Analyst – Developer**  
+*April 2017 – 3 months | TDN Pro, Québec, CANADA*  
+Web development of a copyright management application.  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Teaching
+  - **Functional programming**  
+    *1st year bachelor, Autumn 2021 – Montpellier university*  
+  - **Object oriented programming and conception**  
+    *1st year bachelor, Spring 2021 – Montpellier university*  
+  - **Software engineering**  
+    *3th year bachelor, Autumn 2022 – Montpellier university*  
+  - **Multi-threading programming**  
+    *3th year bachelor, Spring 2022 – Montpellier university*  
+  - **Project management**  
+    *3th and 4th years, 2021/2022 – Polytech Montpellier* 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Publications
+  - [**Variability Extraction from Simulator I/O Data Schemata in Agriculture Decision-Support Software**](https://hal-lirmm.ccsd.cnrs.fr/hal-03375570v1)  
+    *FCA4AI’21: 9th International Workshop "What can FCA do for Artificial Intelligence?" - 21 août 2021 – Montreal, Canada*  
+    Thomas Georges, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine
+  - [**Feature and variability extraction from Agile specifications and their related source code for software product line migration Feature**](https://hal-lirmm.ccsd.cnrs.fr/hal-03825541v2)  
+    *SPLC '22: 26th ACM International Systems and Software Product Line Conference - 12 sept 2022 – Graz, Autriche*  
+    Thomas Georges
+  - [**Guiding feature models synthesis from user-stories: an exploratory approach**](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03971078v1)  
+    *VaMoS’23: 17th International Working Conference on Variability Modelling of Software-Intensive Systems – 25 janv 2023 – Odense, Denmark*  
+    Thomas Georges, Liam Rice, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine  
+    
+  - [**Automated process for feature models synthesis using Formal Concept Analysis and Relational Concept Analysis by leveraging User-stories and code merges**](https://www.kde.cs.uni-kassel.de/icfca2023/cono-concepts.html)  
+    *Computational Notebooks for FCA (CoNo-Concepts 2023)*
+    Thomas Georges, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine
+    
+## Communications
+  - **Doctoral Symposium**  
+    ICSR’20:  19th International Conference on Software and Systems Reuse - December 2020 – Tunis, Tunisia
+  - **Variability extraction from specification into the source to prepare a migration to a Software Product Line**  
+    CAL’22: 13th French conference on Software Architecture - June 2022 – Vannes, France
+  - **Variability Extraction from Simulator I/O Data Schemata in Agriculture Decision-Support Software**  
+    National Days of the Programming and Software Engineering research group - June 2022 – Vannes, France
+  - **Introduction to Software Products Lines**      
+    - 30 years of the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM) - *September 2022*
+    - Interns
+    - European Researchers Night - *October 2023*
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Achievments 
+## For Fun
