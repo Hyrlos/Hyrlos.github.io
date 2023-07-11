@@ -81,7 +81,7 @@ Web development of a copyright management application.
   - Interns
   - European Researchers Night - *October 2023*
 - **My Thesis in 180 seconds - Regional final**  
-  Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *Marsh 2023*
+  Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *March 2023*
 
 ## For Fun
 
