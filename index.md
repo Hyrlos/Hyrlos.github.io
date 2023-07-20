@@ -62,8 +62,8 @@ Web development of a copyright management application.
 - [**Guiding feature models synthesis from user-stories: an exploratory approach**](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03971078v1)  
   *VaMoS’23: 17th International Working Conference on Variability Modelling of Software-Intensive Systems – 25 janv 2023 – Odense, Denmark*  
   Thomas Georges, Liam Rice, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine  
-- [**Automated process for feature models synthesis using Formal Concept Analysis and Relational Concept Analysis by leveraging User-stories and code merges**](https://www.kde.cs.uni-kassel.de/icfca2023/cono-concepts.html)  
-  *Computational Notebooks for FCA (CoNo-Concepts 2023)*
+- [**Notebook for user stories to feature models**]([https://www.kde.cs.uni-kassel.de/icfca2023/cono-concepts.html](https://upriss.github.io/fca/CoNo-Concepts2023.html))  
+  *"Computational Notebooks for FCA" (CoNo-Concepts 2023) at ICFCA'2023*
   Thomas Georges, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine
 
 ## Talks
@@ -83,11 +83,12 @@ Web development of a copyright management application.
 - **My Thesis in 180 seconds - Regional final**  
   Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *March 2023*
 
-## For Fun
+## IA For Fun
 
 - [Notebook Tutorial Clustering and topic modelling](https://gite.lirmm.fr/tgeorges/clusteringtutorial)
-- [Notebook Disease Symptoms and Patient Profile for FCA processing](https://github.com/Hyrlos/Disease-Symptoms-and-Patient-Profile-Processing)
-
+- [Notebook FCA processing for Disease Symptoms and Patient Profile](https://github.com/Hyrlos/Disease-Symptoms-and-Patient-Profile-Processing)
+- [Notebook for user stories to feature models](https://gite.lirmm.fr/tgeorges/CoNoConcepts_ThomasGEORGES_LIRMM/)
+  
 ## Achievments
 
 - 2nd Price « Rodez agglomération 2018 » – Start-up Challenge 2018
