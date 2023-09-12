@@ -4,22 +4,22 @@ layout: default
 
 # PhD Student
 
-  I'm a Phd Student in software architecture on the subject "Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems" at the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier ([LIRMM](https://www.lirmm.fr/)), Montpellier University. My PhD start in 2021 and end at the end of 2023.
+  I'm a Phd Student in software architecture on the subject "Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems" at the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier ([LIRMM](https://www.lirmm.fr/)), University of Montpellier . My PhD start in 2021 and end at the end of 2023.
 
   The thesis is a collaboration with the french company [ITK](itk.fr/en) who provide decision software systems for farmers and agricultural advisors.
 
 ## Education
 
 - **Ph.D. in Software Architecture**  
-  *2021 – 2023 | Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM), Montpellier University, CNRS*  
+  *2021 – 2023 | Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM), University of Montpellier , CNRS*  
   Ph.D. thesis on “Agile Software Product Line Engineering for Agriculture Decision-Support Software Systems”.  
   In collaboration with ITK – Predict and Decide
 - **Computer Science Master**  
-  *2018 – 2020 | Montpellier university*  
+  *2018 – 2020 | University of Montpellier*  
   Architectures and engineering for software and Web.  
   Erasmus: 3th semester at the university of Helsinki in Finland.  
 - **Computer Science Bachelor**  
-  *2017 – 2018 | Montpellier university*
+  *2017 – 2018 | University of Montpellier*
 - **Higher National Diploma in Computer Science**  
   *2015 – 2017 | Toulouse university*
 
@@ -41,13 +41,13 @@ Web development of a copyright management application.
 ### Teaching
 
 - **Functional programming**  
-  *1st year bachelor, Autumn 2021 – Montpellier university*  
+  *1st year bachelor, Autumn 2021 – University of Montpellier*  
 - **Object oriented programming and conception**  
-  *1st year bachelor, Spring 2021 – Montpellier university*  
+  *1st year bachelor, Spring 2021 – University of Montpellier*  
 - **Software engineering**  
-  *3th year bachelor, Autumn 2022 – Montpellier university*  
+  *3th year bachelor, Autumn 2022 – University of Montpellier*  
 - **Multi-threading programming**  
-  *3th year bachelor, Spring 2022 – Montpellier university*  
+  *3th year bachelor, Spring 2022 – University of Montpellier*  
 - **Project management**  
   *3th and 4th years, 2021/2022 – Polytech Montpellier*
 
@@ -76,10 +76,11 @@ Web development of a copyright management application.
   National Days of the Programming and Software Engineering research group - June 2022 – Vannes, France
 - **Bridging the Gap between User-Stories and Feature Models by Leveraging Version Control Platforms**  
   National Days of the Programming and Software Engineering research group - June 2023 – Rennes, France
-- **Introduction to Software Products Lines**
+- **Introduction to Software Products Lines**: [Poster Available](https://github.com/Hyrlos/)
   - 30 years of the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM) - *September 2022*
-  - Interns
+  - Science Fair Week - *October 2023*
   - European Researchers Night - *October 2023*
+  - Interns (Bachelor, Master)
 - **My Thesis in 180 seconds - Regional final**  
   Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *March 2023*
 
