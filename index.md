@@ -76,10 +76,10 @@ Web development of a copyright management application.
   National Days of the Programming and Software Engineering research group - June 2022 – Vannes, France
 - **Bridging the Gap between User-Stories and Feature Models by Leveraging Version Control Platforms**  
   National Days of the Programming and Software Engineering research group - June 2023 – Rennes, France
-- **Introduction to Software Products Lines**: [Poster Available](https://github.com/Hyrlos/)
+- **Introduction to Software Products Lines**: [Poster Available]([https://github.com/Hyrlos/](https://github.com/Hyrlos/hyrlos.github.io/blob/master/Poster%20SPL%20TG%202023_24%20.pdf))
   - 30 years of the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM) - *September 2022*
   - Science Fair Week - *October 2023*
-  - European Researchers Night - *October 2023*
+  - European Researchers Night - *September 2023*
   - Interns (Bachelor, Master)
 - **My Thesis in 180 seconds - Regional final**  
   Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *March 2023*
