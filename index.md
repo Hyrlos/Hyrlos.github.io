@@ -21,13 +21,13 @@ layout: default
 - **Computer Science Bachelor**  
   *2017 – 2018 | University of Montpellier*
 - **Higher National Diploma in Computer Science**  
-  *2015 – 2017 | Toulouse university*
+  *2015 – 2017 | University of Toulouse*
 
 ## Work experience
 
 - **Control Engineer - CERN**  
   *February 2024 - Today | CERN (European Organization for Nuclear Research), Geneva, Switzerland*  
-  Modernized and standardized the software ecosystem for continuous monitoring of critical technical services, improving reliability, scalability, and compliance with industrial standards. Led deployment process renewal, infrastructure upgrades, and DevOps enhancements to streamline operations and boost efficiency.
+  Modernized and standardized the software ecosystem for continuous monitoring of critical technical services, improving reliability, scalability, and compliance with industry standards. Led the overhaul of delivery processes, infrastructure upgrades and DevOps enhancements to streamline operations and increase efficiency.
 - **Internship: Developer**  
   *February 2020 – 9 months | ITK, Montpellier, FRANCE*  
   Conception and development of a connector between Jira and Gitlab. The goal is to synchronise the issue tracking and help to simplify the support processes.
