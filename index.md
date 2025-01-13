@@ -97,6 +97,7 @@ layout: default
 - [Notebook for user stories to feature models](https://gite.lirmm.fr/tgeorges/CoNoConcepts_ThomasGEORGES_LIRMM/)
   
 ## Achievments
+- Award for exceptional service CERN
 - Official CERN Guide : 
   - LINAC2 - LEIR - Low Energy Ion Ring
   - CCC - CERN Control Center
