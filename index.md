@@ -25,11 +25,11 @@ layout: default
 
 ## Work experience
 
-- **Control Engineer - CERN**  
+- **Software Engineer - CERN**  
   *February 2024 - Today | CERN (European Organization for Nuclear Research), Geneva, Switzerland*  
   Modernized and standardized the software ecosystem for continuous monitoring of critical technical services, improving reliability, scalability, and compliance with industry standards. Led the overhaul of delivery processes, infrastructure upgrades and DevOps enhancements to streamline operations and increase efficiency.
-- **Internship: Developer**  
-  *February 2020 – 9 months | ITK, Montpellier, FRANCE*  
+- **Software Engineer**  
+  *February 2020 – 10 months | ITK, Montpellier, FRANCE*  
   Conception and development of a connector between Jira and Gitlab. The goal is to synchronise the issue tracking and help to simplify the support processes.
 - **Internship: Developer**  
   *June 2019 – 3 months | CIRAD, FRANCE - SPKS, INDONESIA*  
