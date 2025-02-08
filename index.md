@@ -70,7 +70,7 @@ layout: default
   Thomas Georges, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine
 - [**Technical Infrastructure Monitoring: Modernising a 20-Year-Old system for CERN Technical Services**]([https://github.com/Hyrlos/hyrlos.github.io/blob/master/Poster-TIM-CERN.pdf)  
   *"National Days of the Programming and Software Engineering research group - June 2024 - Strasbourg, France*
-  Thomas Georges, Marianne Huchard, Mélanie König, Clémentine Nebut, Chouki Tibermacine
+  Thomas Georges
 
 ## Talks
 
