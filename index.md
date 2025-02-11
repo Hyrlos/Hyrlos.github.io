@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Wrap-up
+## Wrap-up
   I am currently an engineer at CERN studying and improving the software ecosystem for continuous monitoring of critical technical services.
   I obtained my PhD at LIRMM studying "Agile engineering of software product lines for decision support applications in agriculture" in partnership with ITK.
   I did a Master's degree in Software and Web Architecture and Engineering at the University of Montpellier, where I also did my third year of a Bachelor's degree in Computer Science. During my Masters, I had the opportunity to spend a semester as an exchange student at the University of Helsinki in Finland.
